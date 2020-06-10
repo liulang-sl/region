@@ -1,0 +1,12 @@
+[submodule "Git-flow-demo"]
+	path = Git-flow-demo
+	url = https://github.com/liulang-sl/Git-flow-demo.git
+[submodule "main"]
+	path = main
+	url = https://github.com/liulang-sl/main.git
+[submodule "sub"]
+	path = sub
+	url = https://github.com/liulang-sl/sub.git
+[submodule "SubmoduleA"]
+	path = SubmoduleA
+	url = https://github.com/liulang-sl/submodule1.git
